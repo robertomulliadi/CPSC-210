@@ -1,0 +1,17 @@
+{
+  "albums": [
+    {
+      "id": "1",
+      "title": "Certified Lover Boy",
+      "artist": "Drake",
+      "price": "120"
+    },
+    {
+      "id": "2",
+      "title": "Smithereens",
+      "artist": "Joji",
+      "price": "90"
+    }
+  ],
+  "name": "Rob's Record Store"
+}

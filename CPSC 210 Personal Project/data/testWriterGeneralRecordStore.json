@@ -1,0 +1,17 @@
+{
+    "albums": [
+        {
+            "artist": "Frank Ocean",
+            "price": "90",
+            "id": "9",
+            "title": "channel ORANGE"
+        },
+        {
+            "artist": "John Mayer",
+            "price": "100",
+            "id": "7",
+            "title": "Continuum"
+        }
+    ],
+    "name": "Rob's Record Store"
+}

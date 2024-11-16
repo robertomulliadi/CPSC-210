@@ -1,0 +1,71 @@
+{
+    "albums": [
+        {
+            "artist": "Drake",
+            "price": "120",
+            "id": "1",
+            "title": "Certified Lover Boy"
+        },
+        {
+            "artist": "Joji",
+            "price": "90",
+            "id": "2",
+            "title": "Smithereens"
+        },
+        {
+            "artist": "Lauv",
+            "price": "100",
+            "id": "4",
+            "title": "All 4 Nothing"
+        },
+        {
+            "artist": "Ed Sheeran",
+            "price": "100",
+            "id": "3",
+            "title": "Divide"
+        },
+        {
+            "artist": "John Mayer",
+            "price": "90",
+            "id": "5",
+            "title": "Continuum"
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "price": "110",
+            "id": "6",
+            "title": "Mr.Morale & The Big Steppers"
+        },
+        {
+            "artist": "The Weeknd",
+            "price": "120",
+            "id": "7",
+            "title": "Dawn FM"
+        },
+        {
+            "artist": "Harry Styles",
+            "price": "100",
+            "id": "8",
+            "title": "Harry's House"
+        },
+        {
+            "artist": "Taylor Swift",
+            "price": "120",
+            "id": "9",
+            "title": "Midnights"
+        },
+        {
+            "artist": "Olivia Rodrigo",
+            "price": "110",
+            "id": "14",
+            "title": "SOUR"
+        },
+        {
+            "artist": "kyotter",
+            "price": "100",
+            "id": "123",
+            "title": "title"
+        }
+    ],
+    "name": "Rob's Record Store"
+}
